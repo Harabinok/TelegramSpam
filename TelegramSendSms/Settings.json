@@ -1,0 +1,19 @@
+{
+  "Settings" : [
+    {
+      "Button" : [
+        {
+          "telegram_string" : [700,992],
+          "telegram_button_send" : [1299,992],
+          "telegram_button_members" : [1545,1028],
+          "telegram_button_search" : [159,135],
+          "telegram_button_element_in_search" : [155,280],
+          "telegram_button_url" : [278,50]
+        }
+      ]
+
+
+
+    }
+  ]
+}
